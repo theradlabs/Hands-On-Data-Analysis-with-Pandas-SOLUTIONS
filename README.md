@@ -1,2 +1,2 @@
 # Hands-On-Data-Analysis-with-Pandas-SOLUTIONS
-Solutions to the Exercises in Hands On Data Analysis with Pandas [both my own and those provided]
+My solutions to the exercises in Hands On Data Analysis with Pandas
